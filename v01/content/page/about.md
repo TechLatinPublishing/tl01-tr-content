@@ -1,7 +1,7 @@
 ---
 title: About TekRants.com
 subtitle: Mindless stuff that I am doing in Golang, AWS, Flutter, BlockChain and IoT ESP32..  and assorted other stuff
-type: page
+# type: page
 comments: false
 draft: true
 ---
