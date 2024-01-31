@@ -5,7 +5,7 @@ type: chal
 weight: 400
 comments: true
 summary: ""
-draft: true
+draft: false
 ---
 Theoretical situations to use Cloud v Docker/K8 v OnPrem v Mobile v IoT
 
