@@ -1,7 +1,7 @@
 ---
 title: GOlang Challenges version 1
 subtitle: Putting entire challenge in 1 document page
-type: chal
+type: tech
 weight: 1
 comments: true
 summary: "this is the summ for EX001"

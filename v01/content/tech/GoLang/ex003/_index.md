@@ -1,7 +1,7 @@
 ---
 title: V2 -GOLang Coding Challenges
 subtitle: TODO
-type: chal
+type: tech
 weight: 100
 comments: true
 summary: "v2"
