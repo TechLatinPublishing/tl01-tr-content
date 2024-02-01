@@ -1,14 +1,15 @@
 ---
-title: GOlang Challenges version 1
-subtitle: Putting entire challenge in 1 document page
+title: GOlang
+subtitle: Compiled - Fast - Resource efficient - and made for the cloud
 type: tech
-weight: 1
+weight: 100
 comments: true
-summary: "this is the summ for EX001"
-summary02: "The best way to learn is to do Code challenges.  Same technique that you may see in a job interview.  This section includes code challenges that I have pulled from other sources, but the code is mine.  I do the challenges in 1 or more ways. I might add TESTing and Dockerize.  I also use several strategies."
+summary: "Golang, or Go, is a powerful and efficient programming language developed by Google. Known for its simplicity, concurrency support, and speed, Golang fosters rapid development of scalable and reliable software."
+
 tags: ["todo","golang"]
 language: "English"
 image: "gopher01.jpg"
 ---
-Version 1 of the codeChal...   the entire challenge in one document
+Golang, or Go, stands out as a language that inspires learning through its elegant simplicity and focus on efficiency. Developed by Google, Golang offers a clean syntax, fostering a quick learning curve for beginners while providing powerful tools for experienced developers. Its emphasis on concurrency and scalability, coupled with built-in features, makes it an excellent choice for modern, distributed systems. Embracing Golang can empower learners to efficiently build robust applications, enhancing their problem-solving skills and enabling them to contribute effectively to the rapidly evolving landscape of software development.
+
 
