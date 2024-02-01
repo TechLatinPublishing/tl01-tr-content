@@ -1,7 +1,7 @@
 ---
 title: GoLang HTMX Templating
 subtitle: ToDo - st on HTML Templating
-weight: 120
+weight: 150
 comments: true
 summary: "TODO.  add discussion on HTMX templating"
 type: tech

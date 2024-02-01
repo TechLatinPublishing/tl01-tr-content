@@ -1,7 +1,7 @@
 ---
 title: Go WEB FRAMEWORKS
 subtitle: Including discussion of Middlewear, Template and HTMX 
-weight: 160
+weight: 130
 comments: true
 summary: "TODO: Discussion of Go WEB FRAMEWORKS"
 type: tech

@@ -2,7 +2,7 @@
 title: GO ROUTINES
 subtitle: One of the Best Go Features - Concurancy
 type: tech
-weight: 110
+weight: 120
 comments: true
 summary: "Go's concurrency model revolves around lightweight threads called goroutines and communication through channels. "
 tags: ["GoLang", "go routines" ]
