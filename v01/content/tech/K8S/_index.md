@@ -5,7 +5,7 @@ summary: ""
 type: tech
 weight: 200
 comments: true
-image: "/img03/k8s/img01.png"
+image: "/img03/K8S/img01.png"
 # video: 
 ---
 Best way to learn i to do challenges.  xx
