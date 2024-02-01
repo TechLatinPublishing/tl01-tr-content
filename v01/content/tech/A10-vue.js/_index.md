@@ -1,9 +1,9 @@
 ---
-title: kafka
+title: VUE.js
 subtitle: todo kafka material
 summary: ""
 type: tech
-weight: 190
+weight: 210
 comments: true
 image: "/img03/vue/img01.png"
 # video: 
