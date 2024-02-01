@@ -1,11 +1,11 @@
 ---
-title: ECHO PACKAGE
-subtitle: ECHO PACKAGE TOPICS
+title: gRPC PROTOFILE Explained
+subtitle: SHORT DISCUSSION
 weight: 120
 comments: true
-summary: "TODO: Some details about the ECHO PAckage"
+summary: "TODO: gRPC DISCUSSION"
 type: tech
 ---
 
-DISCUSS ECHO ISSUES
+TODO Examples of use case here
 

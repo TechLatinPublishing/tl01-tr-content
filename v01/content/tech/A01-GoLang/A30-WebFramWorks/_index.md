@@ -8,6 +8,11 @@ type: tech
 tags: ["GoLang", "Go WEB FRAMEWORKS" ]
 ---
 
+List of Frameworks to review
+https://deepsource.com/blog/go-web-frameworks
+
+
+
 fiber
 https://github.com/gofiber
 
