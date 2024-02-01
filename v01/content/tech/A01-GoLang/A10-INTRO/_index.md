@@ -1,12 +1,12 @@
 ---
-title: GOlang
-subtitle: Compiled - Fast - Resource efficient - and made for the cloud
+title: GO Lang INTRO
+subtitle: RESOURCES and Intteresting Libraries
 type: tech
 weight: 100
 comments: true
-summary: "Golang, or Go, is a powerful and efficient programming language developed by Google. Known for its simplicity, concurrency support, and speed, Golang fosters rapid development of scalable and reliable software."
+summary: "As I discover new Libraries in the Go World, I document here."
 
-tags: ["todo","golang"]
+tags: ["golang"]
 language: "English"
 # image: "goph01.png"
 ---
