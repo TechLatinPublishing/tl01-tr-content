@@ -7,6 +7,6 @@ comments: true
 summary: "tech summary of AWS"
 draft: false
 image: "/img03/aws/img01.png"
+tags: ["AWS"]
 ---
-Theoretical situations to use Cloud v Docker/K8 v OnPrem v Mobile v IoT
-
+My 

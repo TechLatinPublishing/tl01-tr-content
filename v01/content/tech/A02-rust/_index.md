@@ -8,6 +8,5 @@ comments: true
 image: "/img03/rust/img01.png"
 # video: 
 ---
-Best way to learn i to do challenges.  xx
-I have my solutions, see if you have alternative ideas.  try using testify and dockerize it
+TODO Add RUST information here
 <!--more-->
