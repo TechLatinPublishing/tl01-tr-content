@@ -5,7 +5,8 @@ summary: ""
 type: tech
 weight: 200
 comments: true
-image: "gopher01.jpg"
+# image: "gopher01.jpg"
+image: "goph01.png"
 # video: 
 ---
 Best way to learn i to do challenges.  xx
