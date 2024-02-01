@@ -1,11 +1,18 @@
 ---
-title: GoLang MUX's
-subtitle: Simplifies HTTP routing for efficient web request handling.
-weight: 120
+title: fiber PACKAGE
+subtitle: gorilla PACKAGE TOPICS
+weight: 160
 comments: true
-summary: "Golang's Mux, a powerful HTTP router, streamlines request handling by enabling efficient route definition and URL pattern matching. As part of the Gorilla Toolkit, Mux offers features like path variables and sub-router creation, enhancing flexibility in building robust web applications. Its simplicity, combined with performance optimizations, ensures effective handling of complex routing scenarios. Developers favor Golang Mux for its ability to manage HTTP requests seamlessly, contributing to the language's reputation for building scalable and high-performance web services."
+summary: "TODO: fiber"
 type: tech
 ---
 
-Golang's Mux, a powerful HTTP router, streamlines request handling by enabling efficient route definition and URL pattern matching. As part of the Gorilla Toolkit, Mux offers features like path variables and sub-router creation, enhancing flexibility in building robust web applications. Its simplicity, combined with performance optimizations, ensures effective handling of complex routing scenarios. Developers favor Golang Mux for its ability to manage HTTP requests seamlessly, contributing to the language's reputation for building scalable and high-performance web services.
+fiber
+https://github.com/gofiber
 
+# What I like about it
+
+1. The github repo has a lot of interesting examples and documentation.
+2. The Middlewear is very interesting.
+
+# What I want to accomplish
