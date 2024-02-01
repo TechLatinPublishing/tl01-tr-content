@@ -5,7 +5,7 @@ summary: "Golang challenges "
 type: tech
 weight: 200
 comments: true
-image: sphere.jpg
+image: "img03/gopher01.jpg"
 # video: 
 ---
 Best way to learn i to do challenges.  xx
