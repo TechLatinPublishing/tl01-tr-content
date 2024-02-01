@@ -3,7 +3,7 @@ title: docker
 subtitle: Containerization and Deployment
 summary: ""
 type: tech
-weight: 200
+weight: 170
 comments: true
 image: "/img03/docker/img01.png"
 # video: 

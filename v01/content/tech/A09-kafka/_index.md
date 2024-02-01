@@ -1,11 +1,11 @@
 ---
-title: esp32
-subtitle: todo esp material
+title: kafka
+subtitle: todo kafka material
 summary: ""
 type: tech
-weight: 200
+weight: 190
 comments: true
-image: "/img03/esp32/img01.png"
+image: "/img03/kafka/img01.png"
 # video: 
 ---
 Best way to learn i to do challenges.  xx

@@ -1,11 +1,11 @@
 ---
-title: RUST
-subtitle: Compiled - Fast - Resource efficient - and made for the cloud
+title: Git Hub Action
+subtitle: The CICD tool built into Git Hub
 summary: ""
 type: tech
-weight: 200
+weight: 140
 comments: true
-image: "/img03/rust/img01.png"
+image: "/img03/gha/img01.png"
 # video: 
 ---
 Best way to learn i to do challenges.  xx

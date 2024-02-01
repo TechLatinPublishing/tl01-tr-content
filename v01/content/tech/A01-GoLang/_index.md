@@ -1,11 +1,12 @@
 ---
-title: kafka
-subtitle: todo kafka material
+title: GoLang
+subtitle: Compiled - Fast - Resource efficient - and made for the cloud
 summary: ""
 type: tech
-weight: 200
+weight: 100
 comments: true
-image: "/img03/kafka/img01.png"
+# image: "gopher01.jpg"
+image: "/img03/go/img01.png"
 # video: 
 ---
 Best way to learn i to do challenges.  xx

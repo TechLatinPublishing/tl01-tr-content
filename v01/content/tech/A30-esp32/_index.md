@@ -1,12 +1,11 @@
 ---
-title: GoLang
-subtitle: Compiled - Fast - Resource efficient - and made for the cloud
+title: esp32
+subtitle: todo esp material
 summary: ""
 type: tech
-weight: 200
+weight: 300
 comments: true
-# image: "gopher01.jpg"
-image: "/img03/go/img01.png"
+image: "/img03/esp32/img01.png"
 # video: 
 ---
 Best way to learn i to do challenges.  xx
