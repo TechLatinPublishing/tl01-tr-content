@@ -1,7 +1,7 @@
 ---
-title: GoLang challenges
-subtitle: learn golang by challenges
-summary: "Golang challenges "
+title: GoLang
+subtitle: Compiled - Fast - Resource efficient - and made for the cloud
+summary: ""
 type: tech
 weight: 200
 comments: true
