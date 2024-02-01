@@ -1,5 +1,5 @@
 ---
-title: Tech Flutter Dart Technology
+title: Flutter Dart Technology
 subtitle: TODO Best way to learn is just to do
 type: tech
 weight: 400
