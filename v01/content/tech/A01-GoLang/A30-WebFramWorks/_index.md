@@ -1,10 +1,11 @@
 ---
-title: fiber PACKAGE
-subtitle: gorilla PACKAGE TOPICS
+title: Go WEB FRAMEWORKS
+subtitle: Including discussion of Middlewear, Template and HTMX 
 weight: 160
 comments: true
-summary: "TODO: fiber"
+summary: "TODO: Discussion of Go WEB FRAMEWORKS"
 type: tech
+tags: ["GoLang", "Go WEB FRAMEWORKS" ]
 ---
 
 fiber

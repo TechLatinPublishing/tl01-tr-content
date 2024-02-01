@@ -4,7 +4,8 @@ subtitle: The Programming language for the cloud
 summary: "Efficient, Concurrent, Simple, Scalable, Fast, Wasm, Lambda, Cloud-native, Pragmatic."
 type: tech
 weight: 100
-comments: true
+comments: false
+tags: ["GoLang"]
 image: "/img03/go/img01.png"
 # video: 
 ---
