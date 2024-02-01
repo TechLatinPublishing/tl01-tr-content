@@ -1,6 +1,6 @@
 ---
-title: Assorted Coding Challenges
-subtitle: Best way to learn is just to do
+title: Tech Studies
+subtitle: the usual stack
 type: tech
 comments: false
 summary: "Tech sites"
