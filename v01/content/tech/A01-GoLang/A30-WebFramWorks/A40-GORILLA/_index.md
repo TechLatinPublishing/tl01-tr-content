@@ -1,7 +1,7 @@
 ---
 title: gorilla PACKAGE
 subtitle: gorilla PACKAGE TOPICS
-weight: 10
+weight: 2000
 comments: true
 summary: "TODO: gorilla"
 type: tech

@@ -3,7 +3,7 @@ title: GoLang WEB FRAMEWORK RESOURCES
 subtitle: Places to look for more information
 type: tech
 comments: false
-weight: 20
+weight: 100
 tags: ["GoLang", "Go WEB FRAMEWORK"]
 # nextNode: "ex004c"
 ---

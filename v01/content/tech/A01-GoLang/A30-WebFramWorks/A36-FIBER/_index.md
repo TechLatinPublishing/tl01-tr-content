@@ -1,7 +1,7 @@
 ---
 title: FIBER PACKAGE
 subtitle: FIBER
-weight: 160
+weight: 1200
 comments: true
 summary: "TODO: fiber"
 type: tech

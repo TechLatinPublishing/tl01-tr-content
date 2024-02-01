@@ -6,6 +6,7 @@ comments: true
 weight: 10
 tags: ["GoLang", "Go WEB FRAMEWORKS"]
 nextNode: "ex004b"
+draft: true
 ---
 There are an assortment of web frameworks.
 
