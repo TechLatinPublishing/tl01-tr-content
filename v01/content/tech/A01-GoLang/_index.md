@@ -1,14 +1,16 @@
 ---
 title: GoLang
-subtitle: Compiled - Fast - Resource efficient - and made for the cloud
-summary: ""
+subtitle: The Programming language for the cloud
+summary: "Efficient, Concurrent, Simple, Scalable, Fast, Wasm, Lambda, Cloud-native, Pragmatic."
 type: tech
 weight: 100
 comments: true
-# image: "gopher01.jpg"
 image: "/img03/go/img01.png"
 # video: 
 ---
-Best way to learn i to do challenges.  xx
-I have my solutions, see if you have alternative ideas.  try using testify and dockerize it
+Golang, from Google, is a statically-typed language lauded for efficiency. With native support for concurrency, it excels in scalable applications. Golang seamlessly integrates with WebAssembly (Wasm), supports AWS Lambda for serverless functions, and facilitates communication through gRPC/Protobuffers and REST, making it a versatile choice for modern, distributed systems.
 <!--more-->
+
+
+
+
