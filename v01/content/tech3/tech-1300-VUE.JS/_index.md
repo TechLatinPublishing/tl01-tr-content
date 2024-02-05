@@ -1,12 +1,15 @@
 ---
-title: "VUE.JS"
-menusection: "tech"
-type: "tech"
+title: VUE.JS
+menusection: tech
+type: tech
 weight: 1300
 
 
-subtitle: "Vue.js empowers dynamic UIs. Perfect for Golang HTMX projects. Demonstrate versatility, simplicity, and reactivity in building modern, interactive web applications."
-image: "img03/vue/img00.png"
+subtitle: Vue.js empowers dynamic UIs. Perfect for Golang HTMX projects. Demonstrate versatility, simplicity, and reactivity in building modern, interactive web applications.
+image: img03/vue/img00.png
+tags: [GoLang RUST AWS Git Hub Actions DART-FLUTTER hugo DOCKER K8S KAFKA ESP32]
+videos : []
+imageThumbs: [img03/vue/img00.png]
 ---
 Vue.js stands out as a powerful JavaScript framework for building dynamic and reactive user interfaces, making it an ideal choice for modern web application development. Vue.js excels in providing developers with the tools to create highly interactive and engaging UIs effortlessly.
 

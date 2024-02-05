@@ -1,12 +1,15 @@
 ---
-title: "K8S"
-menusection: "tech"
-type: "tech"
+title: K8S
+menusection: tech
+type: tech
 weight: 900
 
 
-subtitle: "Kubernetes orchestrates containers seamlessly. Enables scalability, resilience. Demonstrate versatility on Fargate, various hosting platforms, showcasing powerful container management capabilities."
-image: "img03/k8s/img00.png"
+subtitle: Kubernetes orchestrates containers seamlessly. Enables scalability, resilience. Demonstrate versatility on Fargate, various hosting platforms, showcasing powerful container management capabilities.
+image: img03/k8s/img00.png
+tags: [GoLang RUST AWS Git Hub Actions DART-FLUTTER hugo DOCKER K8S KAFKA ESP32]
+videos : []
+imageThumbs: [img03/k8s/img00.png]
 ---
 Kubernetes, often referred to as K8s, has emerged as the de facto standard for container orchestration, providing a powerful and scalable solution for managing containerized applications in production environments. At its core, Kubernetes excels in orchestrating the deployment, scaling, and operation of application containers, offering a robust foundation for building and running cloud-native, microservices-based applications.
 

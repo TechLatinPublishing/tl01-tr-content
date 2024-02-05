@@ -1,12 +1,15 @@
 ---
-title: "MARTECH"
-menusection: "tech"
-type: "tech"
+title: MARTECH
+menusection: tech
+type: tech
 weight: 1400
 
 
-subtitle: "MarTech elevates campaigns. Storytelling and behavior inspiration through Chatbots, Landing pages, Mailing Strategies, AI, HUGO. Empower marketing with versatility."
-image: "img03/martech/img00.png"
+subtitle: MarTech elevates campaigns. Storytelling and behavior inspiration through Chatbots, Landing pages, Mailing Strategies, AI, HUGO. Empower marketing with versatility.
+image: img03/martech/img00.png
+tags: [GoLang RUST AWS Git Hub Actions DART-FLUTTER hugo DOCKER K8S KAFKA ESP32]
+videos : []
+imageThumbs: [img03/martech/img00.png]
 ---
 Marketing Technology, or MarTech, is a dynamic field that empowers modern campaigns with a blend of technological tools. The primary goal is two-fold: to tell a compelling story and inspire desired consumer behavior. MarTech leverages a range of technologies, including Chatbots, Landing pages, Mailing Strategies, AI, and HUGO, to create impactful and engaging marketing experiences.
 

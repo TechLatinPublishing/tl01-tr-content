@@ -1,12 +1,15 @@
 ---
-title: "ESP32"
-menusection: "tech"
-type: "tech"
+title: ESP32
+menusection: tech
+type: tech
 weight: 1500
 
 
-subtitle: "ESP32 powers IoT innovation. Develop GoLang, Rust apps. Cloud connectivity with gRPC/PROTOBUFFERS. Versatile, efficient, and scalable IoT solutions."
-image: "img03/esp32/img00.png"
+subtitle: ESP32 powers IoT innovation. Develop GoLang, Rust apps. Cloud connectivity with gRPC/PROTOBUFFERS. Versatile, efficient, and scalable IoT solutions.
+image: img03/esp32/img00.png
+tags: [GoLang RUST AWS Git Hub Actions DART-FLUTTER hugo DOCKER K8S KAFKA ESP32]
+videos : []
+imageThumbs: [img03/esp32/img00.png]
 ---
 ESP32, a versatile microcontroller renowned in the Internet of Things (IoT) realm, stands as a cornerstone for IoT innovation. Leveraging ESP32&#39;s capabilities, we embark on developing applications using both GoLang and Rust, enhancing the microcontroller&#39;s versatility and addressing specific IoT project needs.
 

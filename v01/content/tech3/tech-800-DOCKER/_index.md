@@ -1,12 +1,15 @@
 ---
-title: "DOCKER"
-menusection: "tech"
-type: "tech"
+title: DOCKER
+menusection: tech
+type: tech
 weight: 800
 
 
-subtitle: "Docker simplifies containerization. Streamlines deployment across platforms. Demonstrate Kubernetes, Fargate, showcasing versatility in orchestrating and hosting applications."
-image: "img03/docker/img00.png"
+subtitle: Docker simplifies containerization. Streamlines deployment across platforms. Demonstrate Kubernetes, Fargate, showcasing versatility in orchestrating and hosting applications.
+image: img03/docker/img00.png
+tags: [GoLang RUST AWS Git Hub Actions DART-FLUTTER hugo DOCKER K8S KAFKA ESP32]
+videos : []
+imageThumbs: [img03/docker/img00.png]
 ---
 Docker has revolutionized containerization, providing a standardized and efficient way to package, distribute, and deploy applications across different environments. At its core, Docker allows developers to encapsulate an application and its dependencies into a lightweight, portable container, ensuring consistency and reproducibility across various stages of the development lifecycle.
 

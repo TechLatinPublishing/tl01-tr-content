@@ -1,12 +1,15 @@
 ---
-title: "GHA"
-menusection: "tech"
-type: "tech"
+title: GHA
+menusection: tech
+type: tech
 weight: 500
 
 
-subtitle: "GitHub Actions streamlines workflows. Deploy HUGO easily to Runners, GitHub Pages, and S3/CloudFront, ensuring efficient and automated development."
-image: "img03/gha/img00.png"
+subtitle: GitHub Actions streamlines workflows. Deploy HUGO easily to Runners, GitHub Pages, and S3/CloudFront, ensuring efficient and automated development.
+image: img03/gha/img00.png
+tags: [GoLang RUST AWS Git Hub Actions DART-FLUTTER hugo DOCKER K8S KAFKA ESP32]
+videos : []
+imageThumbs: [img03/gha/img00.png]
 ---
 GitHub Actions (GHA) is a powerful automation and continuous integration/continuous deployment (CI/CD) tool integrated seamlessly with GitHub repositories. One of its standout benefits is the ability to streamline development workflows efficiently. GitHub Actions enables teams to automate tasks, from building and testing to deployment, all within the familiar GitHub environment. Specifically, deploying HUGO, a static site generator, becomes a breeze with GitHub Actions.
 

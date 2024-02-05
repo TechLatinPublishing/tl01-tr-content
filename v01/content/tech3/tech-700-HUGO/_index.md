@@ -1,12 +1,15 @@
 ---
-title: "HUGO"
-menusection: "tech"
-type: "tech"
+title: HUGO
+menusection: tech
+type: tech
 weight: 700
 
 
-subtitle: "Hugo, a Golang SSG, crafts fast, scalable sites. GitHub Actions, modules streamline builds. Deploy seamlessly to AWS S3, Digital Ocean buckets."
-image: "img03/hugo/img00.png"
+subtitle: Hugo, a Golang SSG, crafts fast, scalable sites. GitHub Actions, modules streamline builds. Deploy seamlessly to AWS S3, Digital Ocean buckets.
+image: img03/hugo/img00.png
+tags: [GoLang RUST AWS Git Hub Actions DART-FLUTTER hugo DOCKER K8S KAFKA ESP32]
+videos : []
+imageThumbs: [img03/hugo/img00.png]
 ---
 Hugo, a Static Site Generator (SSG) written in Go, has gained acclaim for its speed, simplicity, and scalability in crafting websites. Leveraging the power of Go, Hugo generates static HTML sites with remarkable speed, making it an ideal choice for projects where performance is crucial.
 
