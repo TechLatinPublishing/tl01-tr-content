@@ -8,7 +8,7 @@ tags: ["GoLang", "RUST", "AWS", "Git Hub Actions", "DART-FLUTTER", "hugo", "DOCK
 
 
 subtitle: "Wing Language excels in cloud-native development. Demonstrating GoLang and RUST on AWS EC2s, Lambdas, API Gateway, Load Balancers, and gRPC/ProtoBuffer connections for versatile cloud solutions."
-image: "/img03/wing/img00.png"
+image: "/img03/winglang/img00.png"
 
 
 ---
