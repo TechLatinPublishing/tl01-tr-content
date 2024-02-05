@@ -5,8 +5,12 @@ type: "tech"
 weight: 600
 
 
+tags: ["bbb","GoLang", "RUST", "AWS", "Git Hub Actions", "DART-FLUTTER", "hugo", "DOCKER", "K8S", "KAFKA", "ESP32"]
+
+
+
 subtitle: "Flutter, powered by Dart, enables cross-platform beauty. Seamlessly integrates gRPC/PROTOBuffers for efficient communication with cloud-based microservices."
-image: "img03/flutter/img00.png"
+image: "/img03/flutter/img00.png"
 ---
 Flutter, a UI toolkit developed by Google, is revolutionizing cross-platform app development with its expressive and beautiful UIs. Built on the Dart programming language, Flutter provides a rich set of features that contribute to its widespread adoption. One of its standout benefits is the ability to create visually appealing and consistent user interfaces across iOS, Android, and web platforms, all from a single codebase.
 

@@ -4,9 +4,11 @@ menusection: "tech"
 type: "tech"
 weight: 400
 
+tags: ["bbb","GoLang", "RUST", "AWS", "Git Hub Actions", "DART-FLUTTER", "hugo", "DOCKER", "K8S", "KAFKA", "ESP32"]
+
 
 subtitle: "GenAI with GoLang crafts diverse content. Graphics, audio, video, text, code generation. LLC ensures legal structure. Cloud services ensure scalability."
-image: "img03/genai/img00.png"
+image: "/img03/genai/img00.png"
 ---
 Generative AI, often referred to as GenAI, represents a cutting-edge field where artificial intelligence is employed to create diverse and dynamic content across multiple domains. Leveraging the power of GoLang, a statically typed and compiled language known for its efficiency and simplicity, brings a unique set of technical benefits to the realm of Generative AI.
 

@@ -4,9 +4,13 @@ menusection: "tech"
 type: "tech"
 weight: 1700
 
+tags: ["GoLang", "RUST", "AWS", "Git Hub Actions", "DART-FLUTTER", "hugo", "DOCKER", "K8S", "KAFKA", "ESP32"]
+
 
 subtitle: "Wing Language excels in cloud-native development. Demonstrating GoLang and RUST on AWS EC2s, Lambdas, API Gateway, Load Balancers, and gRPC/ProtoBuffer connections for versatile cloud solutions."
-image: "img03/wing/img00.png"
+image: "/img03/wing/img00.png"
+
+
 ---
 Wing Programming Language stands out as a powerful tool for cloud-native development, offering technical benefits that empower developers to create robust and scalable solutions. In a demonstration of its capabilities, we will showcase the integration of Wing with two prominent languages, GoLang and RUST, within the AWS ecosystem.
 

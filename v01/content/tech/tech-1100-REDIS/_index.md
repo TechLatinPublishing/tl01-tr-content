@@ -4,9 +4,11 @@ menusection: "tech"
 type: "tech"
 weight: 1100
 
+tags: ["GoLang", "RUST", "AWS", "Git Hub Actions", "DART-FLUTTER", "hugo", "DOCKER", "K8S", "KAFKA", "ESP32"]
+
 
 subtitle: "Scalable caching with Redis. Boosts performance, enables real-time applications. Demonstrated in Golang and Rust projects."
-image: "img03/redis/img00.png"
+image: "/img03/redis/img00.png"
 ---
 Redis, a high-performance in-memory data structure store, revolutionizes data caching and real-time application scenarios. With its lightweight and versatile nature, Redis serves as a robust solution for boosting application performance and enabling real-time functionalities.
 

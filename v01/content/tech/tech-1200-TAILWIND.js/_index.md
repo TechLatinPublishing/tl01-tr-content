@@ -4,9 +4,10 @@ menusection: "tech"
 type: "tech"
 weight: 1200
 
+tags: ["GoLang", "RUST", "AWS", "Git Hub Actions", "DART-FLUTTER", "hugo", "DOCKER", "K8S", "KAFKA", "ESP32"]
 
 subtitle: "Tailwind.js streamlines CSS with utility-first approach. Boosts development efficiency and ensures consistent, responsive designs."
-image: "img03/tailwind/img00.png"
+image: "/img03/tailwind/img00.png"
 ---
 Tailwind.js is a comprehensive utility-first CSS framework that revolutionizes the way developers approach styling in web applications. With a focus on simplicity and efficiency, Tailwind.js accelerates the development process and ensures consistent, responsive designs across projects.
 

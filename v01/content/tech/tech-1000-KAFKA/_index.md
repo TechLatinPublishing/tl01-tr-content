@@ -5,8 +5,11 @@ type: "tech"
 weight: 1000
 
 
+tags: ["GoLang", "RUST", "AWS", "Git Hub Actions", "DART-FLUTTER", "hugo", "DOCKER", "K8S", "KAFKA", "ESP32"]
+
+
 subtitle: "Apache Kafka powers real-time data streams. Efficiently manage KeyValue and Messaging. Demo Golang, Rust microservices, showcasing scalability and reliability."
-image: "img03/kafka/img00.png"
+image: "/img03/kafka/img00.png"
 ---
 Apache Kafka has emerged as a pivotal technology for real-time data streaming, enabling the efficient and reliable processing of large volumes of data across distributed systems. At its core, Kafka provides a distributed streaming platform that excels in handling data in motion, making it a cornerstone for building scalable, event-driven architectures.
 
